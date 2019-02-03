@@ -1,0 +1,24 @@
+﻿  Property.cpp
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\property.cpp(217): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\player.cpp(97): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MonopolyApp.cpp
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\monopolyapp.cpp(274): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\monopolyapp.cpp(825): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Menu.cpp
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\menu.cpp(136): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LuxuryTax.cpp
+  Jail.cpp
+  IncomeTax.cpp
+  GoToJail.cpp
+  EmptySpace.cpp
+  Dice.cpp
+  CommunityChest.cpp
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\communitychest.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chance.cpp
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\chance.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  board_out.cpp
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\board_out.cpp(482): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+c:\users\alex\onedrive\programming\c++ hw\monopolyfinal\monopolyfinal\property.cpp(234): warning C4715: 'Property::getCurRent': not all control paths return a value
+  MonopolyFinal.vcxproj -> C:\Users\Alex\OneDrive\Programming\c++ hw\MonopolyFinal\x64\Debug\MonopolyFinal.exe
